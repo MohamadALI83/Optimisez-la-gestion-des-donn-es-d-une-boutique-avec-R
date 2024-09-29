@@ -1,0 +1,2 @@
+# Optimisez-la-gestion-des-donn-es-d-une-boutique-avec-R
+Data Analyst freelance chez BottleNeck, un marchand de vin prestigieux, ma mission était d'optimiser la gestion des données de l'entreprise en utilisant R. L’objectif principal était de rapprocher les bases de données de l'ERP et du site de vente en ligne pour améliorer la gestion des stocks et offrir une meilleure visibilité sur les ventes.
